@@ -1,4 +1,4 @@
-# get_receptor_data
+# get_model_data
 
 ```
 {
