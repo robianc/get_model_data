@@ -30,7 +30,7 @@
     "latitude_range": [],
     "_comment_longitude_range": "Specify mionimum and maximum longitude or leave empty for any longitude",        
     "longitude_range": [],
-    "_comment_valid_theshold_pct": "Specify minimum percentage of valid data.",    
+    "_comment_valid_theshold_pct": "Specify minimum percentage of valid observation data.",    
     "valid_threshold_pct: 0
    }
 }
